@@ -9,3 +9,4 @@ This is a place for all my hacks on this topic. Feel free to open this [notebook
 # TODO
 - [ ] Add loss from VQGAN CLIP
 - [ ] Add loss from CLIP guided diffusion
+- [x] Embed cuts in a batch (x6 speedup)
