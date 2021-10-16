@@ -5,3 +5,7 @@ What if we directly optimize raw image tensor using CLIP, instead of tuning a ge
 Just like style transfer algos were doing 5 years ago :D
 
 This is a place for all my hacks on this topic. Feel free to open this [notebook in colab](https://colab.research.google.com/drive/1hw2A5WIE4KRfdLZ5PXeIKPLTkwfFtziS?usp=sharing) and mess around :D 
+
+# TODO
+- [ ] Add loss from VQGAN CLIP
+- [ ] Add loss from CLIP guided diffusion
