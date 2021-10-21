@@ -10,3 +10,4 @@ This is a place for all my hacks on this topic. Feel free to open this [notebook
 - [ ] Add loss from VQGAN CLIP
 - [ ] Add loss from CLIP guided diffusion
 - [x] Embed cuts in a batch (x6 speedup)
+- [x] Add tv_loss and range_loss
